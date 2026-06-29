@@ -1,0 +1,8 @@
+artifact_location: /mnt/datasets/Project/Demand/mlruns/861557070362790952
+creation_time: 1782712808344
+experiment_id: '861557070362790952'
+last_update_time: 1782712808344
+lifecycle_stage: active
+name: demandiq
+trace_location: null
+workspace: default

@@ -1,0 +1,34 @@
+{
+  "store_id": 0,
+  "product_id": 4,
+  "horizon_days": 9,
+  "forecast": [
+    0.7204105854034424,
+    0.7153998613357544,
+    0.9520246982574463,
+    0.6998898983001709,
+    1.0512174367904663,
+    1.965793490409851,
+    2.1818385124206543,
+    0.8516296148300171,
+    0.4545491933822632
+  ],
+  "high_inventory": {
+    "avg_daily_demand": 1.065999984741211,
+    "safety_stock": 1.607,
+    "reorder_point": 4.805,
+    "recommended_reorder_qty": 0.0,
+    "expected_stockout_risk": 0.05,
+    "overstock_units": 5.195,
+    "estimated_cost": 10.39
+  },
+  "low_inventory": {
+    "avg_daily_demand": 1.065999984741211,
+    "safety_stock": 1.607,
+    "reorder_point": 4.805,
+    "recommended_reorder_qty": 2.805,
+    "expected_stockout_risk": 0.05,
+    "overstock_units": 0.0,
+    "estimated_cost": 5.61
+  }
+}

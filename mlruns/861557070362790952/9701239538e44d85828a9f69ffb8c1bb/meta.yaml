@@ -1,0 +1,14 @@
+artifact_uri: /mnt/datasets/Project/Demand/mlruns/861557070362790952/9701239538e44d85828a9f69ffb8c1bb/artifacts
+end_time: 1782713335299
+entry_point_name: ''
+experiment_id: '861557070362790952'
+lifecycle_stage: active
+run_id: 9701239538e44d85828a9f69ffb8c1bb
+run_name: corrected_model
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782713333150
+status: 3
+tags: []
+user_id: spectra

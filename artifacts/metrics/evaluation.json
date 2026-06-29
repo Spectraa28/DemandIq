@@ -1,0 +1,26 @@
+{
+  "naive": {
+    "model": "Naive Model",
+    "mae": 0.3392,
+    "rmse": 0.5518,
+    "wape": 0.293
+  },
+  "corrected": {
+    "model": "Corrected Model",
+    "mae": 0.3533,
+    "rmse": 0.5913,
+    "wape": 0.3052
+  },
+  "naive_stockout": {
+    "model": "Naive (stockout days)",
+    "mae": 0.3661,
+    "rmse": 0.6124,
+    "wape": 0.3231
+  },
+  "corrected_stockout": {
+    "model": "Corrected (stockout days)",
+    "mae": 0.3963,
+    "rmse": 0.7033,
+    "wape": 0.3498
+  }
+}

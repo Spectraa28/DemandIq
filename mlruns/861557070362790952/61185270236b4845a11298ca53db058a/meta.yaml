@@ -1,0 +1,14 @@
+artifact_uri: /mnt/datasets/Project/Demand/mlruns/861557070362790952/61185270236b4845a11298ca53db058a/artifacts
+end_time: 1782713329554
+entry_point_name: ''
+experiment_id: '861557070362790952'
+lifecycle_stage: active
+run_id: 61185270236b4845a11298ca53db058a
+run_name: naive_model
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782713325492
+status: 3
+tags: []
+user_id: spectra

@@ -1,0 +1,10 @@
+artifact_location: /mnt/datasets/Project/Demand/mlruns/861557070362790952/models/m-1499b87b4622406797c1115e9b8ba78b/artifacts
+creation_timestamp: 1782713325510
+experiment_id: '861557070362790952'
+last_updated_timestamp: 1782713329552
+model_id: m-1499b87b4622406797c1115e9b8ba78b
+model_type: null
+name: naive_model
+source_run_id: 61185270236b4845a11298ca53db058a
+status: 2
+status_message: null

@@ -1,0 +1,10 @@
+artifact_location: /mnt/datasets/Project/Demand/mlruns/861557070362790952/models/m-98f5341f351141db8f9884d8a62fd84c/artifacts
+creation_timestamp: 1782713333164
+experiment_id: '861557070362790952'
+last_updated_timestamp: 1782713335298
+model_id: m-98f5341f351141db8f9884d8a62fd84c
+model_type: null
+name: corrected_model
+source_run_id: 9701239538e44d85828a9f69ffb8c1bb
+status: 2
+status_message: null
