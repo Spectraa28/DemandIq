@@ -4,7 +4,7 @@ DemandIQ is a production-style machine learning system that forecasts retail pro
 
 The project focuses on a common but important retail ML problem:
 
-> Observed sales are not always equal to true customer demand.
+> Observed sales are not always equal to true customer demand
 
 When inventory is limited, sales can be capped by what was available, even if customer demand was higher. A naive forecasting model trained directly on raw sales can learn the wrong demand signal and systematically under-forecast future demand.
 
